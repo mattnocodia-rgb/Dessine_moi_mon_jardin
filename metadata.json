@@ -1,0 +1,7 @@
+{
+  "name": "TerraMatch Pro",
+  "description": "Industrial landscaping project manager with intelligent product matching from quotes and technical inventory control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
